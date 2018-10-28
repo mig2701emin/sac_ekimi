@@ -1,0 +1,2 @@
+Somon dna nedir
+Somon DNA saf hyaluronik asit ve somon balığı spermlerinden elde edilen DNA molekülleri sayesinde, ciltte hücre yenilemesi sağlanması amaçlanır. Bu sayede hızlı bir gençleşme ve canlandırma etkisi yaratan somon DNA yöntemi son dönemde oldukça popüler olmuştur. Somon DNA’sı yöntemi tek başına kullanılabileceği gibi PRP, frkasiyonel lazer, ip uygulamaları, botoks ve dolgu uygulamaları ile de kombine edilebicek önemli bir anti-aging seçeneği haline gelmiştir. 
