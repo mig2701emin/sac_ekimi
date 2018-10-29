@@ -27,7 +27,7 @@
                                                         <div class="moto-widget moto-widget-row__column moto-cell col-xs-11 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa" data-bg-position="left top">
                                                             <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="">
                                                                 <div class="moto-widget-text-content moto-widget-text-editable">
-                                                                  <p class="moto-text_system_12">Dr. Rauf Gül</p>
+                                                                  <p class="moto-text_system_12">Uzm.Dr. Rauf Gül</p>
                                                                 </div>
                                                             </div>
                                                         </div>
