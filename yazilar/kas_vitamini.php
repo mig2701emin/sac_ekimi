@@ -1,0 +1,2 @@
+KAŞ VİTAMİNİ
+Kaşlar da tıpkı saçlar gibi stres, hava şartları, çevre kirliliği, dengesiz beslenme alışkanlıkları, hastalıklar, ilaçlar, yanlış kozmetik ürün seçimi ya da bazen sadece genetik yatkınlık sebebiyle zamanla güçsüz hale gelebilir, seyrelerek dökülebilir. Kaş vitamini, kaş tüylerinin diplerini vitaminlerle besleyerek güçlenmelerini ve dökülen yerlerde yeniden çıkmalarını sağlayan bir serum uygulamasıdır.

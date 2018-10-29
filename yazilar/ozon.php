@@ -1,0 +1,25 @@
+Tedavi amaçlı Ozon
+Medikal ozon daima saf ozon ve saf oksijenin karışımı şeklinde kullanılır. Uygulamaya bağlı olarak ozon konsantrasyonu 1 ve 100 µg/ml (0.05 – 5 %O3) arasında değişir. Ozon terapist, ozon terapi konusunda eğitimli bir doktor, hastanın durumu ve tıbbi endikasyona göre hastanın alacağı komple dozu belirler.
+Özellikleri ve etkisi
+Medikal ozonun iyi bilinen bactericidal (bakteri öldürücü), fungicidal (mantar öldürücü) and virostatic (virüs çoğalmasını önleyici) özelliği sebebiyle, enfekte olmuş yaraların dezenfeksiyonunda ve ayrıca bakteri ve virüslerin sebep olduğu hastalıkların tedavisinde kullanılır.
+Kan dolaşımını arttırma yeteneği, dolaşımla ilgili bozuklukların tedavisinde kullanılır, ve organik fonksiyonların yeniden canlandırılmasında ozonu çok değerli kılar.
+Düşük dozlarda kullanıldığında, vücudun direncini arttırır diğer bir deyişle ozon bağışıklık sistemini aktive eder.
+Ozon sayesinde oluşan bu aktivasyona cevap olarak , vücudun bağışıklık hücreleri cytokin (interferones yada interleukins gibi önemli aracıları içeren) adı verilen özel habercileri (mesaj taşıyıcıları) üretir. Bunlar hastalıklara direnmek için uyarılan bütün bağışıklık sistemi boyunca zincirleme bir şekilde pozitif değişiklikler yaratarak diğer bağışıklık hücrelerini haberdar ederler. Bu da medikal ozonun, özellikle bağışıklık sisteminin zayıf olduğu veya bozuk olduğu hastalara uygulanmasında özellikle çok başarılı sonuçların alınmasına yol açar.
+Majör Otohemoterapi adıyla bilinen küçük miktarlarda uygulanan ozon sonuç olarak vücudun kendi antioksidanlarını ve serbest radikalleri yok eden enzimleri aktive ederler. Kronik enflamatuar hastalıklarda ozonun neden kullanıldığı böylece anlaşılmaktadır.
+Endikasyonlar
+Seçici özellikleri sayesinde medikal ozon 4 temel alanda kullanılmaktadır :
+1. Dolaşım bozukluklarının tedavisi ve geriatride
+2. Virüslerin sebep olduğu hastalıkların tedavisinde örneğin karaciğer hastalıklarından hepatitler, uçuklar (herpes).
+3. Zor iyileşen enfekte yaralarda ve enflamatuar hastalıklarda örneğin
+Bacaklardaki açık yaralar (ulcus cruris)
+Enflamatuar barsak hastalıkları (kolit, Proktit)
+Yanıklar, haşlanma ve enfekte yaralar, mantar enfeksiyonları
+4. Kanser tedavisinde ilave ya da tamamlayıcı olarak ozon bağışıklık sistemini güçlendirici olarak düşük dozlarda “majör otohemoterapi” formunda veya “minör otohemoterapi” olarak kullanılır.
+UYARI: Ozon gazının solunması akciğerlerde tahrişe sebep olduğundan sakıncalıdır.
+Senelerin deneyimi sonucunda ve son yapılan klinik çalışmalar ışığında beş uygulama şeklinin geçerliliği kabul edilmiştir:
+1.Majör otohemoterapi (Hastadan kan alınarak tedavinin yapılması) geriatride (yaşa bağlı hastalıklar), dolaşım bozukluklarında yeniden canlanmayı sağlamak için, viral kökenli hastalıklarda ve genel bağışıklık sistemi aktivasyonu için kullanılır.
+Bu metodla, 50 ila 100 ml hastanın kanı alınır, tam olarak tesbit edilmiş ozonla karıştırıldıktan sonra hastaya geri verilir. (steril ozona dayanıklı sarf malzemesi ve vakumlu şişe kullanılır!). Ozon kırmızı ve beyaz kan hücrelerini oluşturan spesifik maddelerle tamamen reaksiyona girer ve böylece vital aktivitelerini = metabolizmayı arttırır. İşte bu aktive edilmiş kan (ozon ya da oksijen değil!) hastaya hemen normal bir damlalık kullanarak tekrar geri verilir.
+2.Aynı prensibi kullanarak, minör otohemoterapi diye adlandırılan yöntemde ise ozonlanmış 3-5 ml kan intramusküler yolla hastaya geri verilir. Bu yöntemle spesifik olmayan bağışıklık sistem aktivasyonu yapılır: alerjik hastalıklarda ve genel olarak bağışıklık sistemini güçlendirmekte kullanılır.
+3.Eksternal tedavi ozon gazını kapalı bir sistemde özel bir plastik bot (ayaklar ve bacaklar için ) içinde dolaştırarak ya da vücudun farklı bölgelerine uygun torbalar, folyolar ile gerçekleştirilir. Bu sarf malzemeleri ozona dayanıklı materyalden yapılır. Vücudun tedavi edilecek kısmı önceden su ile nemlendirilir, çünkü ozon kuru bölgelere etki etmez. Bu metod ülserleri, yaraları, açık yaraları, ameliyat sonrası oluşan lezyonları, shingles (herpes) ve enfekte olmuş alanları tedavi etmekte çok etkilidir. Diğer yöntemler ozonlu saf su ( dental tedavilerde) ve ozonlu saf medikal zeytin yağı (cilt eruptionları örneğin egzema, mantar, liken gibi).
+4.O3 gasının rektal yolla uygulanması kulağa hoş gelmese de o kadar rahatsızlık verici değildir (tıbbi olarak rektal insuflasyon denir). Aslında hasta kesinlıkle hiçbir rahatsızlık hissetmez, çünkü O3 gazı direkt olarak hassas barsak cidarı (membranı) tarafından emilir; buna ek olarak tüp ve torbalar tek kullanımlık olduğundan tamamen hijyeniktir ve hasta kendi kendine uygulayabilir. Bu metod genelde barsakların enflamatuar hastalıklarında endikedir ancak son zamanlarda daha az invaziv olmasından dolayı genel sağlık ve yeniden canlanma için kullanılmaktadır.
+5.Ozonun eklem içi enjeksiyonu;(intra artikuler yolla ozon verilmesi); adından da anlaşılacağı gibi ozon gazı (eğitimli kişilerce), yavaşca eklem içine enjekte edilir.Bu metod ağrılı enflamatuar hastalığı olan ekleme uygulanır (artrit,rekurren artroz, genel patolojik sertliklerde uygulanabilir) ).
